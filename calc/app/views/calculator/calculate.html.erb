@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Lobster">
+    <link rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Muli">
+    <style>
+      body {
+        font-family: 'Muli';
+        font-size: 30px;
+        width: 140px;
+        align-content: center;
+      }
+      .btn {
+        height: 70px;
+        width: 150px;
+        font-size: 20px;
+        font-family: "Muli";
+      }
+      .goback {
+        background-color: #a8c9ff;
+      }
+      .goback:hover{
+        background-color: #ffd2a8;
+        -webkit-transition: all .3s ease-in;
+        -moz-transition: all .3s ease-in;
+        -ms-transition: all .3s ease-in;
+        -o-transition: all .3s ease-in;
+        transition: all .3s ease-in;
+        opacity: 1;
+
+      }
+    </style>
+  </head>
+  <body>
+    <div class = "container">
+      <form method = "get" action = "/goback">
+        <h3>The answer is <%= @answer %></h3>
+        <% 10.times do %>
+        <% end %>
+        <button type = "submit" class = "btn goback" value = "goBack">go back</button>
+      </form>
+    </div>
+  </body>
+</html>

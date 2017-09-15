@@ -2469,3 +2469,321 @@ Processing by CalculatorController#show as HTML
 Completed 200 OK in 25ms (Views: 22.8ms)
 
 
+Started GET "/calculator" for 127.0.0.1 at 2017-09-15 18:45:25 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 320ms (Views: 162.6ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:45:40 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"3", "dropdown"=>"*", "y"=>"4"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 45ms (Views: 41.5ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:45:42 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 19.9ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:48:35 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"4059", "dropdown"=>"^", "y"=>"3"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 24.5ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:48:37 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 19.3ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:48:44 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"3", "dropdown"=>"/", "y"=>"4"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 31ms (Views: 26.7ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:48:45 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 29ms (Views: 26.5ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:49:00 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"2", "dropdown"=>"^", "y"=>"8"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 33ms (Views: 28.5ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:49:01 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 28ms (Views: 25.2ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:49:10 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"2", "dropdown"=>"/", "y"=>"0"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 38ms (Views: 34.9ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:49:18 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 19ms (Views: 16.1ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:54:44 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 16ms (Views: 14.4ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:54:49 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"5", "dropdown"=>"/", "y"=>"0"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 25ms (Views: 21.9ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:54:52 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 19ms (Views: 17.2ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:56:04 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 18ms (Views: 15.9ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:56:06 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"4", "dropdown"=>"+", "y"=>"5"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 22ms (Views: 18.0ms)
+
+
+Started GET "/calculate" for 127.0.0.1 at 2017-09-15 18:56:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/calculate"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:56:20 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"4", "dropdown"=>"+", "y"=>"5"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 23ms (Views: 20.9ms)
+
+
+Started GET "/calculate" for 127.0.0.1 at 2017-09-15 18:56:30 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/calculate"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:56:32 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"4", "dropdown"=>"+", "y"=>"5"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 15ms
+
+
+  
+SyntaxError (/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/calc/app/views/calculator/calculate.html.erb:45: syntax error, unexpected tIVAR, expecting ')'
+t_buffer.append=( @x @dropdown @answer );@output_buffer.safe
+                              ^):
+  
+app/views/calculator/calculate.html.erb:45: syntax error, unexpected tIVAR, expecting ')'
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:56:39 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 17ms (Views: 15.4ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:56:42 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"3", "dropdown"=>"+", "y"=>"2"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 16.7ms)
+
+
+Started GET "/calculate" for 127.0.0.1 at 2017-09-15 18:57:03 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/calculate"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:57:05 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"3", "dropdown"=>"+", "y"=>"2"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 23.8ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:57:10 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 18.6ms)
+
+
+Started GET "/goback" for 127.0.0.1 at 2017-09-15 18:57:59 -0400
+Processing by CalculatorController#show as HTML
+  Rendering calculator/show.html.erb within layouts/application
+  Rendered calculator/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 17.9ms)
+
+
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:58:02 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"4", "dropdown"=>"^", "y"=>"3"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 30.1ms)
+
+
+Started GET "/calculate" for 127.0.0.1 at 2017-09-15 18:58:15 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/calculate"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/calculate" for 127.0.0.1 at 2017-09-15 18:58:17 -0400
+Processing by CalculatorController#calculate as HTML
+  Parameters: {"x"=>"4", "dropdown"=>"^", "y"=>"3"}
+  Rendering calculator/calculate.html.erb within layouts/application
+  Rendered calculator/calculate.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 20.2ms)
+
+

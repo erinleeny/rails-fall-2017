@@ -1,3 +1,7 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  # =>   action       controller to access
+  get "/animals", to: "animals#index"
+  get "/animals/show", to: "animals#show"
+  get "/animals/new", to: "animals#new"
+  post "/animals", to: "animals#create"
 end

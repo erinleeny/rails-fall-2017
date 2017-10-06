@@ -1,0 +1,2272 @@
+Started GET "/rescue" for 127.0.0.1 at 2017-09-15 19:49:33 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/rescue"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/rescue" for 127.0.0.1 at 2017-09-15 19:50:05 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/rescue"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2017-09-15 19:50:10 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/erinlee/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/erinlee/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.4ms)
+Completed 200 OK in 119ms (Views: 6.0ms)
+
+
+Started GET "/rescue" for 127.0.0.1 at 2017-09-15 20:05:28 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/rescue"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 20:05:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/animals"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:05:46 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/animals/show"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:06:07 -0400
+Processing by AnimalsController#show as HTML
+Completed 500 Internal Server Error in 138ms
+
+
+  
+NameError (undefined local variable or method `hi' for #<AnimalsController:0x007ff46a0ee820>):
+  
+app/controllers/animals_controller.rb:3:in `show'
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:06:17 -0400
+Processing by AnimalsController#show as HTML
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 2.7ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:09:59 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 273ms (Views: 268.4ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:10:12 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 18ms (Views: 14.4ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:10:22 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 18.6ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:10:36 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 21ms (Views: 16.0ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:10:48 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 16ms (Views: 14.0ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:12:23 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 18.3ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:12:35 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 19ms (Views: 17.0ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:13:04 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 17.1ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:13:52 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20ms (Views: 17.3ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:13:59 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 32ms (Views: 29.1ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:14:46 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20ms (Views: 16.7ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:14:55 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20ms (Views: 17.1ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:15:27 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 21ms (Views: 16.5ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:16:10 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 25.5ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:17:06 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 18ms (Views: 15.6ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:18:36 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 17.3ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:18:47 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 17.9ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:18:56 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 14.1ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:19:02 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 21ms (Views: 19.2ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:19:40 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 20.9ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:20:05 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 21ms (Views: 16.9ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:26:09 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 9ms
+
+
+  
+SyntaxError (/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:68: syntax error, unexpected keyword_end
+ze;@output_buffer.append=( end );@output_buffer.safe_append=
+                              ^
+/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:91: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+                ^
+/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:93: syntax error, unexpected keyword_end, expecting ')'
+          end
+             ^):
+  
+app/views/animals/show.html.erb:68: syntax error, unexpected keyword_end
+app/views/animals/show.html.erb:91: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/animals/show.html.erb:93: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:27:32 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 8ms
+
+
+  
+SyntaxError (/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:74: syntax error, unexpected keyword_end
+ze;@output_buffer.append=( end );@output_buffer.safe_append=
+                              ^
+/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:97: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+                ^
+/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:99: syntax error, unexpected keyword_end, expecting ')'
+          end
+             ^):
+  
+app/views/animals/show.html.erb:74: syntax error, unexpected keyword_end
+app/views/animals/show.html.erb:97: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/animals/show.html.erb:99: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:27:58 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/animals/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:28:23 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/animals/new"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:29:35 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 8ms
+
+
+  
+SyntaxError (/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:74: syntax error, unexpected keyword_end
+ze;@output_buffer.append=( end );@output_buffer.safe_append=
+                              ^
+/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:97: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+                ^
+/Users/erinlee/Desktop/nano-hacker-academy/rails-fall-2017/rescue/app/views/animals/show.html.erb:99: syntax error, unexpected keyword_end, expecting ')'
+          end
+             ^):
+  
+app/views/animals/show.html.erb:74: syntax error, unexpected keyword_end
+app/views/animals/show.html.erb:97: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/animals/show.html.erb:99: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:29:52 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (20.5ms)
+Completed 200 OK in 47ms (Views: 43.8ms)
+
+
+Started GET "/animals/show" for 127.0.0.1 at 2017-09-15 20:30:47 -0400
+Processing by AnimalsController#show as HTML
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 22ms (Views: 20.0ms)
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:30:51 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 9ms
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    57: <body>
+    58:   <div class = "container"><br>
+    59:     <p>
+    60:     <%= form_for(@animal) do |form| %>
+    61:     <%= form.label(:name) %>
+    62:     <%= form.text_field(:name) %>
+    63:   </p>
+  
+app/views/animals/new.html.erb:60:in `_app_views_animals_new_html_erb__1891043951659174516_70343873952860'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:32:27 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 11ms
+
+
+  
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+    56: </head>
+    57: 
+    58:     <p>
+    59:     <%= form_for(@animal) do |form| %>
+    60:     <%= form.label(:name) %>
+    61:     <%= form.text_field(:name) %>
+    62:   </p>
+  
+app/views/animals/new.html.erb:59:in `_app_views_animals_new_html_erb__1891043951659174516_70343863973720'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:33:28 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 28ms (Views: 23.3ms)
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:34:15 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 19ms (Views: 17.4ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:34:26 -0400
+  
+ActionController::RoutingError (No route matches [POST] "/animals"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:36:54 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 35ms (Views: 31.8ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:36:55 -0400
+  
+ActionController::RoutingError (No route matches [POST] "/animals"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:37:22 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1Qyqk8GC2D8o7RvwHuDWMtmxqWfrrmhKZoShP8O5+T40GbjohWB+rb93oHptgtnLMUaM6h/8DsmL0yuC5wlKHw==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 4ms (Views: 1.9ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:37:25 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1Qyqk8GC2D8o7RvwHuDWMtmxqWfrrmhKZoShP8O5+T40GbjohWB+rb93oHptgtnLMUaM6h/8DsmL0yuC5wlKHw==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.6ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:37:50 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1Qyqk8GC2D8o7RvwHuDWMtmxqWfrrmhKZoShP8O5+T40GbjohWB+rb93oHptgtnLMUaM6h/8DsmL0yuC5wlKHw==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:37:52 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1Qyqk8GC2D8o7RvwHuDWMtmxqWfrrmhKZoShP8O5+T40GbjohWB+rb93oHptgtnLMUaM6h/8DsmL0yuC5wlKHw==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:37:54 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 22ms (Views: 17.0ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:38:22 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"j4wggAq1MT+yWXWjIMNWVdpA9lWMkmMtYYdp6cBmOiBumTL7TleXrSXDzilToVmsMrfT2HjABa6M0ONU5NaJAQ==", "animal"=>{"name"=>"jerry", "age"=>"13", "kind"=>"ferret"}, "commit"=>"Create Animal"}
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.9ms)
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:39:42 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 22ms (Views: 17.8ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:39:43 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jevFs/YFvhboDT3LRU+ihE4bwPn2tDbGiCGv0ndeoQds/tfIsucYhH+XhkE2La19puzldALmUEVldiVvU+4SJg==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 1.0ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:39:55 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jevFs/YFvhboDT3LRU+ihE4bwPn2tDbGiCGv0ndeoQds/tfIsucYhH+XhkE2La19puzldALmUEVldiVvU+4SJg==", "animal"=>{"name"=>"sd", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.9ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:41:02 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jevFs/YFvhboDT3LRU+ihE4bwPn2tDbGiCGv0ndeoQds/tfIsucYhH+XhkE2La19puzldALmUEVldiVvU+4SJg==", "animal"=>{"name"=>"sd", "age"=>"3", "kind"=>"5"}, "commit"=>"Create Animal"}
+No template found for AnimalsController#create, rendering head :no_content
+Completed 204 No Content in 77ms
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:41:09 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 20ms (Views: 18.1ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:41:10 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"sJ7e+hTjSMTsH7xLWfl/0NZtQAZ+B/SutQ0+ebF+vcBRi8yBUAHuVnuFB8Eqm3ApPppli4pVki1YWrTElc4O4Q==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+No template found for AnimalsController#create, rendering head :no_content
+Completed 204 No Content in 74ms
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:41:29 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 24ms (Views: 18.9ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:41:30 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kpEnnDsmfMRPh+4staivyShdARv3z3P/pRyzNChuOFxzhDXnf8TaVtgdVabGyqAwwKoklgOdFXxISzmJDN6LfQ==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.6ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:42:01 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kpEnnDsmfMRPh+4staivyShdARv3z3P/pRyzNChuOFxzhDXnf8TaVtgdVabGyqAwwKoklgOdFXxISzmJDN6LfQ==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 31ms (Views: 28.8ms)
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:42:07 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 20ms (Views: 17.8ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:42:09 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rptIRGNoyYpzJ3RGoaF1TQW6vY8HRWnsZumojer41dVPjlo/J4pvGOS9z8zSw3q07U2YAvMXD2+LviIwzkhm9A==", "animal"=>{"name"=>"erin", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 17.6ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 20:43:24 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:43:29 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rptIRGNoyYpzJ3RGoaF1TQW6vY8HRWnsZumojer41dVPjlo/J4pvGOS9z8zSw3q07U2YAvMXD2+LviIwzkhm9A==", "animal"=>{"name"=>"erin", "age"=>"14", "kind"=>"human"}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 22ms (Views: 20.3ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:44:49 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rptIRGNoyYpzJ3RGoaF1TQW6vY8HRWnsZumojer41dVPjlo/J4pvGOS9z8zSw3q07U2YAvMXD2+LviIwzkhm9A==", "animal"=>{"name"=>"erin", "age"=>"3", "kind"=>"human"}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 19.3ms)
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:46:09 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 21ms (Views: 17.6ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:46:13 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tHLlG1a91AUsc5bp/qC5fNVVwa8AzdGUfbAMGXpAn/1VZ/dgEl9yl7vpLWONwraFPaLkIvSftxeQ54akXvAs3A==", "animal"=>{"name"=>"hello", "age"=>"ldsf", "kind"=>"jdfi"}, "commit"=>"Create Animal"}
+Completed 500 Internal Server Error in 2ms
+
+
+  
+NoMethodError (undefined method `[]' for #<Animal:0x007ff46b2d0ef8>):
+  
+app/controllers/animals_controller.rb:6:in `create'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:46:32 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tHLlG1a91AUsc5bp/qC5fNVVwa8AzdGUfbAMGXpAn/1VZ/dgEl9yl7vpLWONwraFPaLkIvSftxeQ54akXvAs3A==", "animal"=>{"name"=>"hello", "age"=>"ldsf", "kind"=>"jdfi"}, "commit"=>"Create Animal"}
+Completed 500 Internal Server Error in 3ms
+
+
+  
+NoMethodError (undefined method `[]' for #<Animal:0x007ff46a377768>):
+  
+app/controllers/animals_controller.rb:7:in `create'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:47:01 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tHLlG1a91AUsc5bp/qC5fNVVwa8AzdGUfbAMGXpAn/1VZ/dgEl9yl7vpLWONwraFPaLkIvSftxeQ54akXvAs3A==", "animal"=>{"name"=>"hello", "age"=>"ldsf", "kind"=>"jdfi"}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 18ms (Views: 15.7ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:47:22 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tHLlG1a91AUsc5bp/qC5fNVVwa8AzdGUfbAMGXpAn/1VZ/dgEl9yl7vpLWONwraFPaLkIvSftxeQ54akXvAs3A==", "animal"=>{"name"=>"jeff", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 15.9ms)
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:52:10 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 20ms (Views: 17.2ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:52:11 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W/SNu8SLufw2SVF5SGWEbbg1X7n/BqnJ1TiOJWts54e64Z/AgGkfbqHT6vM7B4uUUMJ6NAtUz0o4bwSYT9xUpg==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+Completed 500 Internal Server Error in 147ms
+
+
+  
+NameError (undefined local variable or method `show' for #<AnimalsController:0x007ff46de64150>):
+  
+app/controllers/animals_controller.rb:9:in `create'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:52:28 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W/SNu8SLufw2SVF5SGWEbbg1X7n/BqnJ1TiOJWts54e64Z/AgGkfbqHT6vM7B4uUUMJ6NAtUz0o4bwSYT9xUpg==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 17.4ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:52:35 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W/SNu8SLufw2SVF5SGWEbbg1X7n/BqnJ1TiOJWts54e64Z/AgGkfbqHT6vM7B4uUUMJ6NAtUz0o4bwSYT9xUpg==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 23ms (Views: 22.1ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:52:44 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"W/SNu8SLufw2SVF5SGWEbbg1X7n/BqnJ1TiOJWts54e64Z/AgGkfbqHT6vM7B4uUUMJ6NAtUz0o4bwSYT9xUpg==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+No template found for AnimalsController#create, rendering head :no_content
+Completed 204 No Content in 78ms
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:53:03 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 22ms (Views: 19.7ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:53:05 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3PgZ60x1sYtaJ8oKtxspeJ98Upz6NXC5s/d4uDSPiDo97QuQCJcXGc29cYDEeSaBd4t3EQ5nFjpeoPIFED87Gw==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+No template found for AnimalsController#create, rendering head :no_content
+Completed 204 No Content in 69ms
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:53:54 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 23ms (Views: 19.2ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:53:57 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"D6SnJ8HGtyhrFohkgJg1upron3sm0ZndnQcKR3Rj5HzusbVchSQRuvyMM+7z+jpDch+69tKD/15wUID6UNNXXQ==", "animal"=>{"name"=>"gf", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 27ms (Views: 25.0ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:53:59 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ifdgqWOiuv3UnkPmCBy0RZhX7CIjZmL/FYcLv00O+iFo4nLSJ0Acb0ME+Gx7fru8cKDJr9c0BHz40IECab5JAA==", "animal"=>{"name"=>"gf", "age"=>"fdg", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 25ms (Views: 24.3ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:54:00 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8kITrY6mex0BcDQ07AQU7tAh/CGJ7MytE+G9UDNSKbQTVwHWykTdj5bqj76fZhsXONbZrH2+qi7+tjftF+KalQ==", "animal"=>{"name"=>"gf", "age"=>"fdg", "kind"=>"fg"}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 19.7ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 20:56:07 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:56:11 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"D6SnJ8HGtyhrFohkgJg1upron3sm0ZndnQcKR3Rj5HzusbVchSQRuvyMM+7z+jpDch+69tKD/15wUID6UNNXXQ==", "animal"=>{"name"=>"gf", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 35ms (Views: 30.5ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 20:56:43 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:56:46 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"D6SnJ8HGtyhrFohkgJg1upron3sm0ZndnQcKR3Rj5HzusbVchSQRuvyMM+7z+jpDch+69tKD/15wUID6UNNXXQ==", "animal"=>{"name"=>"gf", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 27ms (Views: 23.5ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 20:57:18 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:57:20 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"D6SnJ8HGtyhrFohkgJg1upron3sm0ZndnQcKR3Rj5HzusbVchSQRuvyMM+7z+jpDch+69tKD/15wUID6UNNXXQ==", "animal"=>{"name"=>"gf", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 22ms (Views: 19.9ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 20:58:02 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:58:04 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"D6SnJ8HGtyhrFohkgJg1upron3sm0ZndnQcKR3Rj5HzusbVchSQRuvyMM+7z+jpDch+69tKD/15wUID6UNNXXQ==", "animal"=>{"name"=>"gf", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 25ms (Views: 22.1ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 20:58:08 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 20:59:50 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 22ms (Views: 17.7ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 20:59:55 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9UYKRW/Ek95qnlMweP4qnbfVr2PNJuMDwCFJUK9qkYQUUxg+KyY1TP0E6LoLnCVkXyKK7jl0hYAtdsPti9oipQ==", "animal"=>{"name"=>"3", "age"=>"3", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 23ms (Views: 21.7ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 21:00:19 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:00:22 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9UYKRW/Ek95qnlMweP4qnbfVr2PNJuMDwCFJUK9qkYQUUxg+KyY1TP0E6LoLnCVkXyKK7jl0hYAtdsPti9oipQ==", "animal"=>{"name"=>"3", "age"=>"sd", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 23ms (Views: 19.9ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 21:00:55 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:00:57 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9UYKRW/Ek95qnlMweP4qnbfVr2PNJuMDwCFJUK9qkYQUUxg+KyY1TP0E6LoLnCVkXyKK7jl0hYAtdsPti9oipQ==", "animal"=>{"name"=>"3", "age"=>"sd", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 25ms (Views: 22.9ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:01:17 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9UYKRW/Ek95qnlMweP4qnbfVr2PNJuMDwCFJUK9qkYQUUxg+KyY1TP0E6LoLnCVkXyKK7jl0hYAtdsPti9oipQ==", "animal"=>{"name"=>"3", "age"=>"sd", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 26ms (Views: 24.0ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:01:31 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"SREOXlFKs4d0JirET57g+Krx7qU28eQGPjVB1nivUIKoBBwlFagVFeO8kU48/O8BQgbLKMKjgoXTYstrXB/jow==", "animal"=>{"name"=>"3", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 23ms (Views: 19.7ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:01:38 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9V9qgSe9jnjir/HZELUU0J0jKK2vm9PGmgPDZ1MG0icUSnj6Y18o6nU1SlNj1xspddQNIFvJtUV3VEnad7ZhBg==", "animal"=>{"name"=>"3", "age"=>"5", "kind"=>"df"}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 20.7ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 21:01:39 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:02:30 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9UYKRW/Ek95qnlMweP4qnbfVr2PNJuMDwCFJUK9qkYQUUxg+KyY1TP0E6LoLnCVkXyKK7jl0hYAtdsPti9oipQ==", "animal"=>{"name"=>"3", "age"=>"sd", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 24ms (Views: 20.7ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:02:35 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6D5i4bD+RlfdLJM3YKmnOjzm79PZu+Wl4y55N1hE0cAJK3Ca9BzgxUq2KL0Ty6jD1BHKXi3pgyYOefOKfPRi4Q==", "animal"=>{"name"=>"3", "age"=>"sd", "kind"=>"ferret"}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 30ms (Views: 28.8ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:02:38 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KK6SIyjR13Vr+zrWcsreZHmXyePYLnhDRn3tltqNyRjJu4BYbDNx5/xhgVwBqNGdkWDsbix8HsCrKmcr/j16OQ==", "animal"=>{"name"=>"3", "age"=>"sd", "kind"=>"ferret"}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 22ms (Views: 20.6ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:02:41 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uz7PAsg9g7TS8y3MXqLwgghQh4atk7Jx4+utuQ8J2BWyK915jN8lJkVplkYtwP974KeiC1nB1PIOvCcEK7lrNA==", "animal"=>{"name"=>"3", "age"=>"3", "kind"=>"ferret"}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 21ms (Views: 19.8ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 21:03:09 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 21:03:12 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 21:03:19 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 21:03:28 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 21ms (Views: 18.9ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:03:36 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ONCXyv/q+DQWRGc7QMsvVkCwCiATGppfLZKbqDi2qHjZxYWxuwhepoHe3LEzqSCvqEcvredI/NzAxREVHAYbWQ==", "animal"=>{"name"=>"3", "age"=>"3", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 21ms (Views: 19.4ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:03:39 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BuX7chlNizBjNjUVUQVfOyxMllyseFBKKWcWiXb6gTfn8OkJXa8tovSsjp8iZ1DCxLuz0VgqNsnEMJw0UkoyFg==", "animal"=>{"name"=>"3", "age"=>"3", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 22ms (Views: 20.1ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:03:42 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tbjTPVpiUdiCiZ1TmXF5myERc1qnljByuWZ469VcHw1UrcFGHoD3ShUTJtnqE3ZiyeZW11PEVvFUMfJW8eysLA==", "animal"=>{"name"=>"3", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 31ms (Views: 27.2ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:03:50 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"WKWqPKHXkU3cev4LezDFXkaIhRun96tQXkfI+Vz/Trq5sLhH5TU330vgRYEIUsqnrn+gllOlzdOzEEJEeE/9mw==", "animal"=>{"name"=>"", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 24ms (Views: 19.5ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-15 21:04:03 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-15 21:04:08 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 18ms (Views: 16.2ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-15 21:04:15 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5ZeXyHBobvDxIx26CB4mIA4C3gNcosGykV4wWq9mICwEgoWzNIrIYma5pjB7fCnZ5vX7jqjwpzF8Cbrni9aTDQ==", "animal"=>{"name"=>"af", "age"=>"", "kind"=>""}, "commit"=>"Create Animal"}
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 24ms (Views: 22.4ms)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (2.2ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (2.2ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateAnimals (20170929235225)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "animals" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170929235225"]]
+  [1m[35m (1.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2017-09-29 23:58:27.139872"], ["updated_at", "2017-09-29 23:58:27.139872"]]
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (2.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (2.4ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateAnimals (20170929235225)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (1.7ms)[0m  [1m[35mCREATE TABLE "animals" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "age" integer)[0m
+  [1m[35mSQL (6.5ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170929235225"]]
+  [1m[35m (8.4ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2017-09-30 00:16:24.233118"], ["updated_at", "2017-09-30 00:16:24.233118"]]
+  [1m[35m (1.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (3.3ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (2.3ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateAnimals (20170929235225)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "animals" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "age" integer, "kind" varchar)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170929235225"]]
+  [1m[35m (1.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2017-09-30 00:17:01.897508"], ["updated_at", "2017-09-30 00:17:01.897508"]]
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (2.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (2.2ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateAnimals (20170929235225)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE TABLE "animals" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "age" integer, "kind" varchar)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170929235225"]]
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2017-09-30 00:17:12.997836"], ["updated_at", "2017-09-30 00:17:12.997836"]]
+  [1m[35m (1.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "animals" ("name", "age", "kind") VALUES (?, ?, ?)[0m  [["name", "Jolene"], ["age", 64], ["kind", "Zebra"]]
+  [1m[35m (1.4ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[32mINSERT INTO "animals" ("name", "age", "kind") VALUES (?, ?, ?)[0m  [["name", "Sean"], ["age", 6], ["kind", "Whale"]]
+  [1m[35m (2.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "animals" ("name", "age", "kind") VALUES (?, ?, ?)[0m  [["name", "Kathy"], ["age", 50], ["kind", "Snake"]]
+  [1m[35m (2.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mAnimal Load (0.4ms)[0m  [1m[34mSELECT  "animals".* FROM "animals" WHERE "animals"."kind" = ? LIMIT ?[0m  [["kind", "Zebra"], ["LIMIT", 11]]
+  [1m[36mAnimal Load (0.5ms)[0m  [1m[34mSELECT  "animals".* FROM "animals" WHERE "animals"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Started GET "/rescue" for 127.0.0.1 at 2017-09-29 20:32:40 -0400
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/rescue"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-29 20:32:45 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (22.8ms)
+Completed 200 OK in 289ms (Views: 280.3ms | ActiveRecord: 0.8ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-29 20:32:59 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"IsDhmKUgXNnT3jrJudZw73tjeSvRWncbX8BkxsRDN5HD1fPj4cL6S0REgUPKtH8Wk5RcpiUIEZiyl+574POEsA==", "animal"=>{"name"=>"Erin", "age"=>"14", "kind"=>"Human"}, "commit"=>"Create Animal"}
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 18ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/animals/new" for 127.0.0.1 at 2017-09-29 20:34:10 -0400
+Processing by AnimalsController#new as HTML
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 28ms (Views: 16.3ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-29 20:34:18 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hC6TiNIMYNepJBHXfQub+TU/H5uRlVmF3Hrw3C67CQBlO4Hzlu7GRT6+ql0OaZQA3cg6FmXHPwYxLXphCgu6IQ==", "animal"=>{"name"=>"Erin", "age"=>"14", "kind"=>""}, "commit"=>"Create Animal"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering animals/new.html.erb within layouts/application
+  Rendered animals/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 22ms (Views: 19.2ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/animals" for 127.0.0.1 at 2017-09-29 20:34:25 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"p1N3TyxStXBb2i7dkEsiTgIjzJ+fecmA3aXQ9u1fzTVGRmU0aLAT4sxAlVfjKS236tTpEmsrrwMw8lpLye9+FA==", "animal"=>{"name"=>"Erin", "age"=>"14", "kind"=>"human"}, "commit"=>"Create Animal"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "animals" ("name", "age", "kind") VALUES (?, ?, ?)[0m  [["name", "Erin"], ["age", 14], ["kind", "human"]]
+  [1m[35m (1.8ms)[0m  [1m[36mcommit transaction[0m
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 22ms (Views: 16.4ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:34:56 -0400
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for AnimalsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/animals" for 127.0.0.1 at 2017-09-29 20:35:13 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hC6TiNIMYNepJBHXfQub+TU/H5uRlVmF3Hrw3C67CQBlO4Hzlu7GRT6+ql0OaZQA3cg6FmXHPwYxLXphCgu6IQ==", "animal"=>{"name"=>"Stuyvesant", "age"=>"113", "kind"=>"Cancer cell"}, "commit"=>"Create Animal"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "animals" ("name", "age", "kind") VALUES (?, ?, ?)[0m  [["name", "Stuyvesant"], ["age", 113], ["kind", "Cancer cell"]]
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 34ms (Views: 30.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/animals/index" for 127.0.0.1 at 2017-09-29 20:48:00 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/animals/index"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:48:03 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  Rendered animals/index.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    59:       <div class = "col-md-6">
+    60:         <h1>All Animals</h1>
+    61:         <ul>
+    62:           <% for animal in @animals %>
+    63:             <li>
+    64:               <%= @animal.name %>
+    65:             </li>
+  
+app/views/animals/index.html.erb:62:in `_app_views_animals_index_html_erb__1811063005334245606_70170468172460'
+Started POST "/animals" for 127.0.0.1 at 2017-09-29 20:48:06 -0400
+Processing by AnimalsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"hC6TiNIMYNepJBHXfQub+TU/H5uRlVmF3Hrw3C67CQBlO4Hzlu7GRT6+ql0OaZQA3cg6FmXHPwYxLXphCgu6IQ==", "animal"=>{"name"=>"Stuyvesant", "age"=>"113", "kind"=>"Cancer cell"}, "commit"=>"Create Animal"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "animals" ("name", "age", "kind") VALUES (?, ?, ?)[0m  [["name", "Stuyvesant"], ["age", 113], ["kind", "Cancer cell"]]
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 17.5ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:48:22 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  Rendered animals/index.html.erb within layouts/application (3.7ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    59:       <div class = "col-md-6">
+    60:         <h1>All Animals</h1>
+    61:         <ul>
+    62:           <% for animal in @animals %>
+    63:             <li>
+    64:               <%= @animal.name %>
+    65:             </li>
+  
+app/views/animals/index.html.erb:62:in `_app_views_animals_index_html_erb__1811063005334245606_70170502094560'
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:48:31 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  Rendered animals/index.html.erb within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    59:       <div class = "col-md-6">
+    60:         <h1>All Animals</h1>
+    61:         <ul>
+    62:           <% for animal in @animals %>
+    63:             <li>
+    64:               <%= @animal.name %>
+    65:             </li>
+  
+app/views/animals/index.html.erb:62:in `_app_views_animals_index_html_erb__1811063005334245606_70170476744060'
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:48:48 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  Rendered animals/index.html.erb within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    59:       <div class = "col-md-6">
+    60:         <h1>All Animals</h1>
+    61:         <ul>
+    62:           <% for animal in @animals %>
+    63:             <li>
+    64:               <%= animal.name %>
+    65:             </li>
+  
+app/views/animals/index.html.erb:62:in `_app_views_animals_index_html_erb__1811063005334245606_70170513346900'
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:49:21 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.1ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 25ms (Views: 21.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:50:21 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.1ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 27ms (Views: 23.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:50:43 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.3ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 26ms (Views: 23.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/1" for 127.0.0.1 at 2017-09-29 20:53:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/1"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/1" for 127.0.0.1 at 2017-09-29 20:53:45 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/1"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/1" for 127.0.0.1 at 2017-09-29 20:53:51 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/1"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/animals/3" for 127.0.0.1 at 2017-09-29 20:53:58 -0400
+Processing by AnimalsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT  "animals".* FROM "animals" WHERE "animals"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (2.7ms)
+Completed 500 Internal Server Error in 18ms (ActiveRecord: 1.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+    57: <body>
+    58:   <div class = "container"><br>
+    59:     <h1>animal information!</h1>
+    60:     <h3> <%= @animal.name %> is a <%= @animal.age %> year old <%= @animal.kind %></h3>
+    61: 
+    62:     <div class = "row">
+    63:       </div>
+  
+app/views/animals/show.html.erb:60:in `_app_views_animals_show_html_erb__2298586757587709764_70170515708840'
+Started GET "/animals/3" for 127.0.0.1 at 2017-09-29 20:54:17 -0400
+Processing by AnimalsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT  "animals".* FROM "animals" WHERE "animals"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (2.7ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.8ms)
+
+
+  
+ActionView::Template::Error (undefined method `name' for nil:NilClass):
+    57: <body>
+    58:   <div class = "container"><br>
+    59:     <h1>animal information!</h1>
+    60:     <h3> <%= @animal.name %> is a <%= @animal.age %> year old <%= @animal.kind %></h3>
+    61: 
+    62:     <div class = "row">
+    63:       </div>
+  
+app/views/animals/show.html.erb:60:in `_app_views_animals_show_html_erb__2298586757587709764_70170468287800'
+Started GET "/animals/3" for 127.0.0.1 at 2017-09-29 20:54:48 -0400
+Processing by AnimalsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mAnimal Load (0.1ms)[0m  [1m[34mSELECT  "animals".* FROM "animals" WHERE "animals"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 15.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/animals/1" for 127.0.0.1 at 2017-09-29 20:54:52 -0400
+Processing by AnimalsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mAnimal Load (0.1ms)[0m  [1m[34mSELECT  "animals".* FROM "animals" WHERE "animals"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering animals/show.html.erb within layouts/application
+  Rendered animals/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19ms (Views: 16.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:59:27 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 22ms (Views: 19.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:59:30 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 25ms (Views: 23.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 20:59:44 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 18ms (Views: 15.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 21:00:09 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 19ms (Views: 15.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 21:00:11 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 22ms (Views: 18.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 21:00:33 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.3ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 26ms (Views: 22.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 21:00:46 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 22ms (Views: 18.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/animals" for 127.0.0.1 at 2017-09-29 21:01:08 -0400
+Processing by AnimalsController#index as HTML
+  Rendering animals/index.html.erb within layouts/application
+  [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
+  Rendered animals/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 21ms (Views: 18.4ms | ActiveRecord: 0.2ms)
+
+

@@ -4,4 +4,6 @@ class Animal < ActiveRecord::Base
   validates :kind, presence: true
   validates :age, presence: true
   validates :age, numericality: true
+  validates :location, presence: true
+  has_many :visits
 end

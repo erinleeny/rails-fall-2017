@@ -56,25 +56,20 @@
 </head>
   <div class = "container">
     <div class = "row">
-      <div class = "col-md-6">
+
         <h1>All Animals</h1>
+        <h2><%= link_to 'animals', new_animal_path %></h2>
         <table>
           <% for animal in @animals %>
           <a href = '/animals/<%=animal.id%>' ></a>
             <tr>
-              <td>
-              <%= animal.name %>
-              </td>
-              <td>
-              <%= animal.age %>
-              </td>
-            <td>
-            <%= animal.kind %>
-          </td>
+          <td>
+          <%= link_to animal.name, animal %>
+
+        </td>
             </tr>
           <% end %>
         </table>
     </div>
-  </div>
 </div>
 </html>

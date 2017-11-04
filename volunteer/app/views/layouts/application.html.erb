@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <!-- Latest compiled and minified JavaScript -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Lobster">
+      <link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Muli">
+      <link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Vollkorn">
+      <style>
+
+      body {
+        font-family: 'Muli';
+        text-align: center;
+      }
+
+      .form-group {
+        width: 300px;
+        height: 90px;
+        margin-left: 36%;
+      }
+      h1 {
+        font-family: 'Vollkorn';
+        font-size: 75px;
+      }
+
+      </style>
+    <title>Volunteer</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>

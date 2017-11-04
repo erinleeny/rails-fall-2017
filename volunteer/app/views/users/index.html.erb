@@ -1,0 +1,46 @@
+<head>
+  <style>
+
+  .form-group {
+    width: 350px;
+    height: 90px;
+    margin-left: 20%;
+
+  }
+  .header {
+    width: 95%;
+    height:800px;
+    align-items: center;
+    border-radius: 25px;
+    border-width: thin;
+    border-color: black;
+
+
+  }
+  h3 {
+    text-align: center;
+    font-size: 40px;
+  }
+  h2
+  {
+    text-align: center;
+  }
+  h4 {
+    font-size: 25px;
+    text-align: auto;
+  }
+
+  </style>
+</head>
+<div class = "container"><br>
+<h1>volunteer ! </h1>
+    <h4><%= link_to 'create user', new_user_path %></h4>
+    <h3>browse our users</h3>
+    <% for user in @users %>
+    <h4><%= link_to user.name, user %></h4>
+    <% end %>
+    <h3>browse our events</h3>
+      <% for event in @events %>
+      <h4><%= link_to event.name, [user, event] %></h4>
+    <% end %>
+  </div>

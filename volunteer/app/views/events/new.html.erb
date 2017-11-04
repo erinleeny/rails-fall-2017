@@ -1,0 +1,26 @@
+<body>
+  <br><h1>add a volunteer event</h1>
+  <div class = "container">
+    <%= form_for([@user, @event]) do |form| %>
+      <div class = "form-group">
+      <%= form.label :ID_of_user %>
+      <%= form.text_field :user_id, class: 'form-control' %>
+      </div>
+      <div class = "form-group">
+      <%= form.label :name_of_event%>
+      <%= form.text_field :name, class: 'form-control' %>
+    </div>
+    <div class = "form-group">
+      <%= form.label :date_of_event %>
+      <%= form.text_field :date, class: 'form-control' %>
+    </div>
+    <div class = "form-group">
+      <%= form.label :description %>
+      <%= form.text_field :description, class: 'form-control' %>
+    </div>
+    <div class = "form-group">
+      <%= form.submit "Create Event", class: 'form-control btn btn-primary' %>
+      <% end %>
+  </div>
+</div>
+</body>

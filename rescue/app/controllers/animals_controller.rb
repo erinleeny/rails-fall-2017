@@ -3,6 +3,9 @@ class AnimalsController < ApplicationController
     @animal = Animal.new
 
   end
+  def edit
+    
+  end
   def index
     @animals = Animal.all
   end

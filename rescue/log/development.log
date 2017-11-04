@@ -2271,6 +2271,7 @@ Completed 200 OK in 21ms (Views: 18.4ms | ActiveRecord: 0.2ms)
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Started GET "/animals/new" for 127.0.0.1 at 2017-10-13 18:42:41 -0400
   [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
 Processing by AnimalsController#new as HTML
@@ -3548,6 +3549,8 @@ Completed 200 OK in 43ms (Views: 38.8ms | ActiveRecord: 0.3ms)
 
 Started GET "/animals" for 127.0.0.1 at 2017-10-13 20:07:08 -0400
 =======
+=======
+>>>>>>> master
 Started GET "/animals/new" for 127.0.0.1 at 2017-10-06 19:40:54 -0400
   [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
 Processing by AnimalsController#new as HTML
@@ -3595,11 +3598,15 @@ Completed 200 OK in 29ms (Views: 17.5ms | ActiveRecord: 1.3ms)
 
 
 Started GET "/animals" for 127.0.0.1 at 2017-10-06 20:15:33 -0400
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
 Processing by AnimalsController#index as HTML
   Rendering animals/index.html.erb within layouts/application
   [1m[36mAnimal Load (0.2ms)[0m  [1m[34mSELECT "animals".* FROM "animals"[0m
   Rendered animals/index.html.erb within layouts/application (2.4ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 Completed 200 OK in 20ms (Views: 18.2ms | ActiveRecord: 0.2ms)
 
@@ -4057,6 +4064,8 @@ Completed 200 OK in 42ms (Views: 38.0ms | ActiveRecord: 0.4ms)
   [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
   [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
 =======
+=======
+>>>>>>> master
 Completed 200 OK in 29ms (Views: 23.5ms | ActiveRecord: 0.2ms)
 
 
@@ -4208,4 +4217,7 @@ Processing by AnimalsController#create as HTML
 Completed 200 OK in 23ms (Views: 17.1ms | ActiveRecord: 2.6ms)
 
 
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master

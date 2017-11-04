@@ -1,4 +1,5 @@
 ## rails example animal project
-#incomplete
+# incomplete
+
 creating animals and visitors for animals
 

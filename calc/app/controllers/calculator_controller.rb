@@ -1,6 +1,7 @@
 class CalculatorController < ApplicationController
   #name must match in routes and filename
   def calculate
+    @dropdown = params[:dropdown]
     if params[:dropdown] == "+"
       @answer = params[:x].to_i + params[:y].to_i
     elsif params[:dropdown] == "-"

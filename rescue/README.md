@@ -1,5 +1,6 @@
 ## rails example animal project
 # incomplete
 
-creating animals and visitors for animals
+project we developed in class to aid us when we create our final project
+creates animals and visitors for animals
 
